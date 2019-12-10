@@ -2,7 +2,7 @@
 
 In this challenge, you will write an API that can be used to manage _Cars_ stored in a Relational Database.
 
-## Project Set Up
+## Project Set Up--
 
 Follow these steps for starting your project.
 
